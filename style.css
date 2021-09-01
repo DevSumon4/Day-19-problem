@@ -65,7 +65,8 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
 	-ms-transition: all .4s;
 	-o-transition: all .4s;
 	text-transform: uppercase;
-    position: relative;
+	position: relative;
+	text-align: center;
 }
 .primary_menu ul li:hover > a{
     color: #8f6b36;
